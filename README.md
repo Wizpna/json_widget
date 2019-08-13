@@ -1,16 +1,14 @@
-# json_widget
+# flutter json_widget
 
-A new Flutter project.
+A simple flutter project, demostrating how to use json_widget
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/Wizpna/json_widget/blob/master/screenshot/screenshot.png" width="350" title="Screenshot">
+</p>
 
-This project is a starting point for a Flutter application.
+Contact - Let's become friend
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://github.com/Wizpna">Github</a></br>
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
+<a href="https://www.facebook.com/promise.nzubechi.amadi">Facebook</a>
