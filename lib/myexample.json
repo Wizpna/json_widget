@@ -1,0 +1,18 @@
+{
+  "name": "Container",
+  "params": {
+    "child": {
+      "name": "Center",
+      "params": {
+        "child": {
+          "name": "Text",
+          "params": {
+            "0": "Hi Promise Amadi"
+          }
+        }
+      }
+
+    },
+    "color": "#Color(0xffffffff)"
+  }
+}
